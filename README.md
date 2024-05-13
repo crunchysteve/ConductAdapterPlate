@@ -15,14 +15,16 @@ I found a Giant Conduct master cylinder on eBay. These are a faceplate designed 
 And there is problem number two. There is no ISO headset bolt pattern standard. Anybody can make their proprietary headset and faceplate any size they want to. A Fox will not fit a Merocca, will not fit a Giant Connect, will not fit a Ritchey, and so on.
 
 So, this is my solution - this adapter plate, longer bar clamp bolts and 4 spacers of approximately 15 to 20mm length, depending on the stem's faceplate thickness. The bolt holes at...
-	- x = -16.5 and 16.5 mm and,
-	- y = -21.5 and 21.5,
+	- x = -15 and 15 mm and,
+	- y = -21 and 21,
 ...are to suit my Merocca sprung stem, your dimensions will probably be different, depending on your stem. The holes at...
-	- x = -11 and 11 mm and,
-	- y = 0 and 43,
+	- x = -12 and 12 mm and,
+	- y = 0 and 42,
 ...are for the Conduct master cylinder and won't change. As the master cylinder is not doing handle locking duties, these holes can be tapped to M4 threads. The stem bolt holes must allow your stem's M4 or M5 bolts clearance.
 
 ### Making The Adapter Plate
+
+!(Adapter Plate Dimension Sketch)[./AdapterPlate.svg]
 
 Depending on your stem's bar clamp width, 50mm x 3mm aluminium bar may be adequate, but I'd seriously recommend 4mm, or even 5mm thickness, if your local supplier has it. You may need to 60mm width if your horizontal bolt spacing is wider than 42mm. The length you will need is your vertical bolt spacing, plus half the Conduct's vertical bolt spacing, plus 20mm. In my case, my peice of aluminium will be cut to 85mm by 50mm x 3mm. 8mm to 10mm edge clearance should be more than enough but, if you want less, then definitely use thicker bar and, even at 6mm, don't use less than 5mm edge spacing.
 
