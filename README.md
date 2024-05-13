@@ -34,18 +34,16 @@ Next, especially if using thicker than 3mm for you plate, drill the Conduct moun
 
 These will need to be, at least, 1.6mm wall steel tubing with an internal diameter for M4 or M5 bolts depending on your stem's clamping bolt diameter. The length of the spacers must be uniform and enough for the adapter (and any nuts on the back of it) to sit just clear of your stem's faceplate. In most cases, 20mm should be adequate. The wall thickness should be at least 1.6mm for steal or 2mm to 2.5mm for aluminium tube, but not so thick that your outside diameter is larger than the diameter of your stem's stock faceplate bolts, or they may not sit right on your stem's faceplate. If the tubing you can get is too wide for your faceplate's bolt seats, you may be able to place the tubing in a drill and file it down until it just fits the bolt seat.
 
-If you can find stock spacers that fit your faceplate and faceplate bolts, especially if steel, grab them! An alternative spacing system might be threaded rod, coupler nuts and nylok nuts, but 4mm and 5mm threaded rod can be hard to find and smaller diameter coupler nuts are also hard to find in longer lengths. Coupler nuts may also need turning down at the faceplate end to snuggly fit the bolt seat. The advantage of this method is that you don't have to loosen your bars to work on the brakes, only if you need to remove your handlebars for any reason.
+If you can find stock spacers that fit your faceplate and faceplate bolts, especially if steel, grab them! An alternative spacing system might be M5 threaded spacers which may not be too hard to find in 302 stainless steel. However, these may need turning down at the faceplate end to snuggly fit the bolt seat. The advantage of this method is that you don't have to loosen your bars to work on the brakes, only if you need to remove your handlebars for any reason. When torquing the nuts, this latter method may not transfer the torque fully along the entire thread.
 
-I cannot stress enough that the spacers *NEED* to be as short as is possible, bot *NOT* allowing the adapter plate or master cylinder screws to touch the faceplate. Forces you apply at your brake levers will apply sideways force on the stem bolts and this could cause them to eventually break. When selecting your longer head stem bolts, select the highest quality you can find. Torque them well, but not beyond recommended for your stem or the bolts themselves. The spacers must be cut perfectly square to share the lateral applied forces with the bolts used.
+I cannot stress enough that the spacers *NEED* to be as short as is possible, but *NOT* allowing the adapter plate or master cylinder screws to touch the faceplate. For me, this is 12mm but your length may vary. Forces you apply at your brake levers will apply sideways force on the stem bolts and this could cause them to eventually break. When selecting your longer head stem bolts, select the highest quality you can find. Torque them well, but not beyond recommended for your stem or the bolts themselves. The spacers must be cut perfectly square to share the lateral applied forces with the bolts used.
 
 ### Bill Of Materials
 
-1x	Aluminium Flat bar of at least 81mm long x 50mm x at least 3mm
-	drilled as per the dimensions in AdapterPlate.scad,
+1x	Aluminium Flat bar of at least 81mm long x 50mm x at least 3mm drilled as per the dimensions in AdapterPlate.scad, ping or 
 4x	M5 x 12mm metal cylindrical spacers,
-4x	M5 x 10mm hex head screws for mounting Conduct master cylinder,
-4x	M5 x 40mm  "   "     "     "     "     faceplate, spacers and 
-	adapter plate onto head stem.
+4x	M5 x 8mm to 12mm hex head screws for mounting the Conduct master cylinder, length depends on your faceplate thickness,
+4x	M5 x 40mm  "   "     "     "     "     faceplate, spacers and adapter plate onto head stem. (Longer if using thicker material than 3 or 4mm.)
 	Loktite thread "glue"
 
 ### About Giant Conduct Master Cylinders
