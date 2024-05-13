@@ -1,6 +1,6 @@
 ## Giant Conduct to Any Stem Adapter Plate
 
-#### WARNING: Giant's documentation express warns that usage of the Conduct master cylinder on any stem, other than Giant's specifically stated stems, will void the warranty. Giant and I both warn that mullet hacks like this one may be dangerous and could potentially cause serious injury or death. I say that, if you undertake your version of this, use the highest quality hardware and materials and that *YOU MUST* accept full personal responsibility for any risk or harm arising from using it in a live riding environment.
+#### WARNING: Giant's documentation expressly warns that usage of the Conduct master cylinder on any stem, other than Giant's specifically stated stems, will void the warranty. Giant and I both warn that mullet hacks like this one may be dangerous and could potentially cause serious injury or death. I say that, if you undertake your version of this, use the highest quality hardware and materials and that *YOU MUST* accept full personal responsibility for any risk or harm arising from using it in a live riding environment.
 
 ### In The Beginning
 
