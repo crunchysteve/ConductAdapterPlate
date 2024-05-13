@@ -50,6 +50,9 @@ I cannot stress enough that the spacers *NEED* to be as short as is possible, bu
 
 ### About Giant Conduct Master Cylinders
 
+View the service manual here...
+[https://static.giant-bicycles.com/Manuals/Gear/Component/Conduct%20Hydraulic%20Disc%20Brakes/Conduct%20Hydraulic%20Disc%20Brakes_EN.PDF](https://static.giant-bicycles.com/Manuals/Gear/Component/Conduct%20Hydraulic%20Disc%20Brakes/Conduct%20Hydraulic%20Disc%20Brakes_EN.PDF)
+
 The Conduct braking system allows the use of cable-pull levers with hydraulic disk brakes. This means, if you already have "analog" levers and don't want to upgrade everything all over the bike all at once, you can use your existing levers and upgrade your calipers alone. Or, you could convert your existing flat bar bike to drop bars without having to upgrade the entire groupset.
 
 While being a sort of universal adapter, it is specifically designed to work with specific models of Giant head stem, and Giant warn in their manual for this part that use with any other stem system *WILL* void the warranty for the part. I have sourced mine secondhand, as they're not available in my country as a replacement part, unless being replaced on or after warranty on an actual Giant bicycle that had one as stock fitment. Some places in the world they can be sourced as off-the-shelf spare parts. There are regular appearances of secondhand units on eBay as some Giant owners choose to upgrade to Shimano 105 or similar, leaving bike shops with a pile of these things that they can't fit for liability reasons.
