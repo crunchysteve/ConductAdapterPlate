@@ -2,6 +2,8 @@
 
 #### WARNING: Giant's documentation expressly warns that usage of the Conduct master cylinder on any stem, other than Giant's specifically stated stems, will void the warranty. Giant and I both warn that mullet hacks like this one may be dangerous and could potentially cause serious injury or death. I say that, if you undertake your version of this, use the highest quality hardware and materials and that *YOU MUST* accept full personal responsibility for any risk or harm arising from using it in a live riding environment.
 
+#### NOTE: This *is* a software project, the code is in the scad file, the language is OpenSCAD. Please see the LICENCE.md file for open source details.
+
 ### In The Beginning
 
 I have a favourite road bike with cable disk brakes. I want to upgrade to hydraulic, which I sort of had with TRP Hy/Rd cable/hydro hybrid callipers. Trouble is, I've also just recently electrified to bike with a front wheel kit and had to replace the front caliper with my stock Tektro cable pulled brake. The modulation is like "poo." Luckily, I have a pair of Tektro hydraulic callipers from a discarded mountain bike, found in the bushes near a local railway station. They are, in fact, about the only part of that old 26er worth keeping and they're the same form-factor as my awful Tektro Novello that's currently doing front stopping duty and will fit in the available "space" between the fork and the motor hub.
