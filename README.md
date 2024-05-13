@@ -24,7 +24,7 @@ So, this is my solution - this adapter plate, longer bar clamp bolts and 4 space
 
 ### Making The Adapter Plate
 
-!(Adapter Plate Dimension Sketch)[AdapterPlate.png]
+!(Adapter Plate Dimension Sketch)[https://github.com/crunchysteve/ConductAdapterPlate/blob/master/AdapterPlate.png]
 
 Depending on your stem's bar clamp width, 50mm x 3mm aluminium bar may be adequate, but I'd seriously recommend 4mm, or even 5mm thickness, if your local supplier has it. You may need to 60mm width if your horizontal bolt spacing is wider than 42mm. The length you will need is your vertical bolt spacing, plus half the Conduct's vertical bolt spacing, plus 20mm. In my case, my peice of aluminium will be cut to 85mm by 50mm x 3mm. 8mm to 10mm edge clearance should be more than enough but, if you want less, then definitely use thicker bar and, even at 6mm, don't use less than 5mm edge spacing.
 
