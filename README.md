@@ -44,7 +44,7 @@ I cannot stress enough that the spacers *NEED* to be as short as is possible, bu
 *	4x	M5 x 12mm metal cylindrical spacers,
 *	4x	M5 x 8mm to 12mm hex head screws for mounting the Conduct master cylinder, length depends on your faceplate thickness,
 *	4x	M5 x 40mm  hex head screws for mounting the faceplate, spacers and adapter plate onto head stem. (Longer if using thicker material than 3 or 4mm.)
-*		Loktite thread "glue"
+*	Loktite thread "glue"
 
 ### About Giant Conduct Master Cylinders
 
