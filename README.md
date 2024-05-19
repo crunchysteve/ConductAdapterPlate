@@ -6,7 +6,7 @@
 
 ### In The Beginning
 
-I have a favourite road bike with cable disk brakes. I want to upgrade to hydraulic, which I sort of had with TRP Hy/Rd cable/hydro hybrid callipers. Trouble is, I've also just recently electrified to bike with a front wheel kit and had to replace the front caliper with my stock Tektro cable pulled brake. The modulation is like "poo." Luckily, I have a pair of Tektro hydraulic callipers from a discarded mountain bike, found in the bushes near a local railway station. They are, in fact, about the only part of that old 26er worth keeping and they're the same form-factor as my awful Tektro Novello that's currently doing front stopping duty and will fit in the available "space" between the fork and the motor hub.
+I have a favourite road bike with cable disk brakes. I want to upgrade to hydraulic, which I sort of had with TRP Hy/Rd cable/hydro hybrid callipers. Trouble is, I've also just recently electrified this bike with a front wheel kit and had to replace the front caliper with my stock Tektro cable pulled brake because the hy/rd was wider than ISO clearance. The modulation is like "poo." Luckily, I have a pair of Tektro hydraulic callipers from a discarded mountain bike, found in the bushes near a local railway station. They are, in fact, about the only part of that old 26er worth keeping and they're the same form-factor as my awful Tektro Novello that's currently doing front stopping duty and will fit in the available "space" between the fork and the motor hub.
 
 Remember, I said "road bike"? I have MicroSHIFT R9 levers to match my Shimano 9-speed but they're cable pull...
 
