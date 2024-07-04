@@ -48,6 +48,12 @@ I cannot stress enough that the spacers *NEED* to be as short as is possible, bu
 *	4x	M5 x 40mm  hex head screws for mounting the faceplate, spacers and adapter plate onto head stem. (Longer if using thicker material than 3 or 4mm.)
 *	Loktite thread "glue"
 
+### Notes on old school 2-bolt stem clamps and quill stem systems
+
+If you're using this system on anything other than a commuter bike, I would not recommend using a 2-bolt stem system. If your bike has one of these, replace the stem with a quality 4-bolt system and drill your adapter plate to suit that stem. If you decide to try the Merocca suspension stem, popular on eBay at the moment, you will be able to use my drilling pattern for your bracket. While the Merocca has a harsh return, it does help iron out the worst of gravel and broken road riding. It is worth noting, this suspension stem would be of little use for single track riding, it's no substitute for long travel suspension forks.
+
+Regarding old school quill stems, they are not suited at all to this modification. Many clamp the bars with single bolt spring clamping system, almost none are more than 2 bolt. None are suted to bolting up via spacers. *Do not attempt this mod on anything less than an A-Head style steerer clamping system with a 4 bolt bar clamping plate.* Any attempt to mount one of these master cylinder systems on your bike is *entirely your own choice and risk.*
+
 ### About Giant Conduct Master Cylinders
 
 View the service manual here...
